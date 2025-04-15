@@ -1,0 +1,21 @@
+# Core ML & Data Handling
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+scikit-image
+nibabel
+tqdm
+SimpleITK # Added for 3D SLIC
+
+# Graph Neural Networks
+torch_geometric
+
+# Visualization (Optional but helpful)
+matplotlib
+seaborn
+
+# Configuration
+yaml
