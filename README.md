@@ -37,7 +37,7 @@ KAN-MRI/
 *   **CNN (Convolutional Neural Network):**
     *   `ResNet2D`: Based on pretrained ResNet18, adapted for MRI input.
     *   `VGG16_2D`: Based on pretrained VGG16, adapted for MRI input.
-    *   `ResNet3D`: Simple 3D ResNet implementation (trained from scratch).
+    *   `ResNet3D`: 3D ResNet implementation.
 *   **GCN (Graph Convolutional Network):**
     *   `GCN2D`: Operates on graphs constructed from 2D slices using SLIC superpixels.
     *   `GCN3D`: Operates on graphs constructed from 3D volumes using SLIC supervoxels.
